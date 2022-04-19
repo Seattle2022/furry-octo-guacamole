@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Seattle2022/furry-octo-guacamole.git
+git branch -M main
+git push -u origin main
